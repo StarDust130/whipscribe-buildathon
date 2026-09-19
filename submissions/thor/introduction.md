@@ -4,13 +4,14 @@ I'm Chandrashekhar. Honestly, I'm still on a journey of discovering myself. I lo
 
 **Track record**
 
-* Website: http://chandrashekhar.me/
+* Website: http://chandrashekhar.me
+* LinkedIn: I don't use LinkedIn.
 * Shipped apps: https://shadowfounder.tech/ and other projects I've built and shipped
 * Hackathon wins: None
-* Team lead: I have led teams in many hackathons.
+* Team lead: Led teams in multiple hackathons, including Sarathi-AI, where I led the team and worked on taking the idea from problem to working prototype.
 * Team projects: https://github.com/StarDust130/Sarathi-Ai — I worked on this as part of a hackathon team and led the team.
 * Proudest work: https://github.com/StarDust130/Hungrr and https://github.com/StarDust130/Admin_Hungrr
-* Contributions elsewhere: Some open-source contributions to friends' projects and contributions at @vercel, @paperclipai, and @TheMoonDevs.
+* Contributions elsewhere: Open-source contributions to friends' projects and contributions to Vercel, Paperclip AI, and TheMoonDevs. Links to specific contributions will be added where applicable.
 
 **What running your shipped apps taught you**
 
